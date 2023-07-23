@@ -1,0 +1,16 @@
+html, body, #root {
+  height: 100%;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding: 0;
+
+  min-width: 600px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+.custom-navbar {
+  background-color: #808080;
+  fontSize: '16px'; width: '3500px'; height: '40px'
+}
